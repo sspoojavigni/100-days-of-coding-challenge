@@ -25,7 +25,6 @@ Example input 2
 Example output 2
 50
 
-
 ```
 
 
