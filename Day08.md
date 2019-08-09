@@ -1,6 +1,6 @@
 ## Write a program to calculate the distance between two points.
 
-``
+```
 INPUT 
 4
 0
@@ -19,7 +19,8 @@ INPUT
 
 OUTPUT
 5
-``
+
+```
 
 
 import math
