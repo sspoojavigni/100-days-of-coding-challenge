@@ -26,15 +26,3 @@ Example output 2
 50
 
 ```
-
-
-hr = int(input())
-min = int(input())
-sec = int(input())
-hr1 = int(input())
-min1 = int(input())
-sec1 = int(input())
-
-ts = hr*3600 + min*60 + sec
-ts1 = hr1*3600 + min1*60 + sec1
-print(ts1-ts)
