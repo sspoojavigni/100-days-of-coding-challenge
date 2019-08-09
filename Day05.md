@@ -2,11 +2,11 @@
 The program reads the numbers N and K. It should print the two answers for the questions above.
 
 ```
-## Example input
+ Example input
 6
 50
 
-## Example output
+ Example output
 8
 2
 
