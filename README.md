@@ -25,5 +25,7 @@ codings
 
 12)[Given a three-digit number. Find the sum of its digits.](Day12.md)
 
-13)[]
+13)[Given an integer, print "odd" if it's odd and print "even" otherwise.](Day13.md)
+
+14)[]
 
