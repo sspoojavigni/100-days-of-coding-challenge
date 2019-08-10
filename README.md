@@ -33,5 +33,7 @@ codings
 
 16)[Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.](Day16.md)
 
-17)[]
+17)[Write a program that receives a number on the input.](Day17.md)
+
+18)[]
 
