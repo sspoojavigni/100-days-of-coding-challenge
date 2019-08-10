@@ -11,4 +11,7 @@ codings
 
 5)[N students take K apples and distribute them among each other evenly. The remaining (the indivisible) part remains in the basket. How many apples will each single student get? How many apples will remain in the basket?](Day05.md)
 
+6)[Given the integer N - the number of seconds that is passed since midnight - how many full hours and full minutes are passed since midnight.](Day06.md)
+
+7)
 
