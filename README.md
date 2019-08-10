@@ -17,5 +17,7 @@ codings
 
 8)[Write a program to calculate the distance between two points.](Day08.md)
 
-9)[]
+9)[If you adopted the "Follow the Right Wall" algorithm, you will complete Level 10.](Day09.md)
+
+10)[]
 
