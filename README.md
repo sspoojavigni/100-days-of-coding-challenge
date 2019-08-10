@@ -7,3 +7,6 @@ codings
 
 3)[Write a program that greets the user by printing the word "Hello", a comma, the name of the user and an exclamation mark after it. See the examples below.](Day03.md)
 
+4)[Write a program that reads an integer number and prints its previous and next numbers. ](Day04.md)
+
+5)
