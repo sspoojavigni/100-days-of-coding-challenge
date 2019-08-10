@@ -31,5 +31,7 @@ codings
 
 15)[Given a month - an integer from 1 to 12, print the number of days in it in the year 2017.](Day15.md)
 
-16)[]
+16)[Given the year number. You need to check if this year is a leap year. If it is, print LEAP, otherwise print COMMON.](Day16.md)
+
+17)[]
 
