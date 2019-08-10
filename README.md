@@ -23,5 +23,7 @@ codings
 
 11)[If you adopted the "Follow the Left Wall" algorithm, you will complete Level 10.](Day11.md)
 
-12)[]
+12)[Given a three-digit number. Find the sum of its digits.](Day12.md)
+
+13)[]
 
