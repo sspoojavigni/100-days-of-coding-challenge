@@ -21,5 +21,7 @@ codings
 
 10)[After you complete the 10th level, what is the JavaScript code you got?](Day10.md)
 
-11)[]
+11)[If you adopted the "Follow the Left Wall" algorithm, you will complete Level 10.](Day11.md)
+
+12)[]
 
