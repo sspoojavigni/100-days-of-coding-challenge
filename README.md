@@ -9,4 +9,6 @@ codings
 
 4)[Write a program that reads an integer number and prints its previous and next numbers. ](Day04.md)
 
-5)
+5)[N students take K apples and distribute them among each other evenly. The remaining (the indivisible) part remains in the basket. How many apples will each single student get? How many apples will remain in the basket?](Day05.md)
+
+
