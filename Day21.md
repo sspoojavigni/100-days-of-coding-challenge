@@ -31,8 +31,8 @@ False
 digit_c = input()
 number_s = input() 
 
-# digit_c is the character equivalent of a digit  
-# number_s is the string equivalent of a number 
+digit_c is the character equivalent of a digit  
+number_s is the string equivalent of a number 
 
 
 #print("METHOD 1 output")
