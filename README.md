@@ -27,5 +27,7 @@ codings
 
 13)[Given an integer, print "odd" if it's odd and print "even" otherwise.](Day13.md)
 
-14)[]
+14)[Given three integers, print the least of them.](Day14.md)
+
+15)[]
 
