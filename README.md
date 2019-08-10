@@ -35,5 +35,7 @@ codings
 
 17)[Write a program that receives a number on the input.](Day17.md)
 
-18)[]
+18)[Write a program that receives a number on the input.](Day18.md)
+
+19)[]
 
