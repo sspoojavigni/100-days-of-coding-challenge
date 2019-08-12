@@ -56,4 +56,6 @@ that number subjected to the conditions below.](Day23.md)
 
 27)[N numbers are given in the input. Read them and print their sum.](Day27.md)
 
+28)[Write a program that receives a number on the input and prints values from 1 to that number subjected to the conditions below. 
+It also should receive another value 'rev' (either 0 or 1) on the input](Day28.md)
 
