@@ -54,4 +54,6 @@ that number subjected to the conditions below.](Day23.md)
 
 26)[For the given integer N calculate the following sum:1³ + 2³ + ... + N³](Day26.md)
 
+27)[N numbers are given in the input. Read them and print their sum.](Day27.md)
+
 
