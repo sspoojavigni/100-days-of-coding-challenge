@@ -45,6 +45,6 @@ codings
 
 22)[Write a program that receives a number on the input.](Day22.md)
 
-23)[- Write a program that receives a number on the input and prints values from 1 to   
+23)[ Write a program that receives a number on the input and prints values from 1 to   
 that number subjected to the conditions below. 
 - It also should receive another value 'rev' (0 or 1) on the input.](Day23.md)
