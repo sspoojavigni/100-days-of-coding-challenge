@@ -52,4 +52,6 @@ that number subjected to the conditions below.](Day23.md)
 
 25)[In mathematics, the factorial of an integer n, denoted by n! is the following product:n! = 1 × 2 × … × n](Day25.md)
 
+26)[For the given integer N calculate the following sum:1³ + 2³ + ... + N³](Day26.md)
+
 
