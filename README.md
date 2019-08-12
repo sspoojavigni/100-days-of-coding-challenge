@@ -50,3 +50,6 @@ that number subjected to the conditions below.](Day23.md)
 
 24)[Write a program that receives a number on the input.It also should receive another value 'rev'  (either 0 or 1) on the input.](Day24.md) 
 
+25)[In mathematics, the factorial of an integer n, denoted by n! is the following product:n! = 1 × 2 × … × n](Day25.md)
+
+
