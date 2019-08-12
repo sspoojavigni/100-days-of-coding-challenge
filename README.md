@@ -43,3 +43,5 @@ codings
 
 21)[Read two inputs.](Day21.md)
 
+22)Write a program that receives a number on the input.(Day22.md)
+
