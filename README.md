@@ -59,3 +59,5 @@ that number subjected to the conditions below.](Day23.md)
 28)[Write a program that receives a number on the input and prints values from 1 to that number subjected to the conditions below. 
 It also should receive another value 'rev' (either 0 or 1) on the input](Day28.md)
 
+29)[For given integer n ≤ 9 print a ladder of n steps. The k-th step consists of the integers from 1 to k without spaces between them.](Day29.md)
+
