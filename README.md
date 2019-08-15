@@ -63,3 +63,6 @@ It also should receive another value 'rev' (either 0 or 1) on the input](Day28.m
 
 30)[There was a set of cards with numbers from 1 to N. One of the card is now lost. Determine the number on that lost card given the numbers for the remaining cards.
 Given a number N, followed by N − 1 integers representing the numbers on the remaining cards (distinct integers in the range from 1 to N). Find and print the number on the lost card.](Day30.md)
+
+31)[Given a sequence of distinct non-negative integers, where each number is written in a separate line. The sequence ends with 0. Print the second largest element in this sequence. It is guaranteed that the sequence has at least two elements.](Day31.md)
+
