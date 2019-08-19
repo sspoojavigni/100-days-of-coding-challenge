@@ -103,3 +103,6 @@ In the ninth line, print the length of the given string.](Day33.md)
 
 45)[It is possible to place 8 queens on an 8×8 chessboard so that no two queens threaten each other. Thus, it requires that no two queens share the same row, column, or diagonal.  ](Day45.md)
 
+46)[Given a list of numbers, find and print the elements that appear in it only once. Such elements should be printed in the order in which they occur in the original list.](Day46.md)
+
+
