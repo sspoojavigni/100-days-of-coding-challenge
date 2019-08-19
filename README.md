@@ -67,3 +67,14 @@ Given a number N, followed by N − 1 integers representing the numbers on the r
 31)[Given a sequence of distinct non-negative integers, where each number is written in a separate line. The sequence ends with 0. Print the second largest element in this sequence. It is guaranteed that the sequence has at least two elements.](Day31.md)
 
 32)[The Indian Air Force (IAF)  is using more than 10,000 spy planes to go across LoC to scout for terrorist camps in Pakistan. Whenever a spy plane takes off for reconnaissance, the Plane ID is added to a list. Whenever the plane returns, the ID is again added to the same list. ](Day32.md)  
+
+33)[
+In the first line, print the third character of this string.
+In the second line, print the second to last character of this string.
+In the third line, print the first five characters of this string.
+In the fourth line, print all but the last two characters of this string.
+In the fifth line, print all the characters of this string with even indices (remember indexing starts at 0, so the characters are displayed starting with the first).
+In the sixth line, print all the characters of this string with odd indices (i.e. starting with the second character in the string).
+In the seventh line, print all the characters of the string in reverse order.
+In the eighth line, print every second character of the string in reverse order, starting from the last one.
+In the ninth line, print the length of the given string.](Day33.md)
