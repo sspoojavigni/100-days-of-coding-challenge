@@ -91,4 +91,7 @@ In the ninth line, print the length of the given string.](Day33.md)
 
 39)[Given a list of numbers, find and print all its elements that are greater than their left neighbor.](Day39.md)
 
+40)[Given a list of non-zero integers, find and print the first adjacent pair of elements that have the same sign. If there is no such pair, print 0.](Day40.md)
+
+
 
