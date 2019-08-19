@@ -84,3 +84,5 @@ In the ninth line, print the length of the given string.](Day33.md)
 35)[Given a string in which the letter h occurs at least twice, reverse the sequence of characters enclosed between the first and last occurrences of it.](Day35.md)
 
 36)[Given a string in which the letter h occurs at least twice, replace every occurrence of the letter h by the letter H, except for the first and the last ones.](Day36.md)
+
+37)[Given a list of numbers, find and print all its elements with even indices (i.e. A[0], A[2], A[4], ...).](Day37.md)
