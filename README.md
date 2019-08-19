@@ -66,3 +66,4 @@ Given a number N, followed by N − 1 integers representing the numbers on the r
 
 31)[Given a sequence of distinct non-negative integers, where each number is written in a separate line. The sequence ends with 0. Print the second largest element in this sequence. It is guaranteed that the sequence has at least two elements.](Day31.md)
 
+32)[The Indian Air Force (IAF)  is using more than 10,000 spy planes to go across LoC to scout for terrorist camps in Pakistan. Whenever a spy plane takes off for reconnaissance, the Plane ID is added to a list. Whenever the plane returns, the ID is again added to the same list. ](Day32.md)  
