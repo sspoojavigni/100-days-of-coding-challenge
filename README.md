@@ -93,7 +93,7 @@ In the ninth line, print the length of the given string.](Day33.md)
 
 40)[Given a list of non-zero integers, find and print the first adjacent pair of elements that have the same sign. If there is no such pair, print 0.](Day40.md)
 
-41)[Given a list of numbers, determine and print the number of elements that are greater than both of their neighbors.The first and the last items of the list shouldn't be considered because they don't have two neighbors.(Day41.md)
+41)[Given a list of numbers, determine and print the number of elements that are greater than both of their neighbors.The first and the last items of the list shouldn't be considered because they don't have two neighbors.](Day41.md)
 
 
 
