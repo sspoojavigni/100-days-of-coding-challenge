@@ -14,10 +14,6 @@ In tobbit
 ```
 
 
-# Read a string:
-# s = input()
-# Print a string:
-# print(s)
 s = input()
 s = s[:s.find('h')] + s[s.rfind('h') + 1:]
 print(s)
