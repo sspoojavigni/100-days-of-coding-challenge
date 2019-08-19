@@ -97,6 +97,6 @@ In the ninth line, print the length of the given string.](Day33.md)
 
 42)[Given a list of numbers with all elements sorted in ascending order, determine and print the number of distinct elements in it.](Day42.md)
 
-
+43)[]
 
 
