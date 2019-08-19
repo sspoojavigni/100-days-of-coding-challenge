@@ -80,3 +80,6 @@ In the eighth line, print every second character of the string in reverse order,
 In the ninth line, print the length of the given string.](Day33.md)
 
 34)[Given a string in which the letter h occurs at least twice. Remove from that string the first and the last occurrence of the letter h, as well as all the characters between them.](Day34.md)
+
+35)[Given a string in which the letter h occurs at least twice, reverse the sequence of characters enclosed between the first and last occurrences of it.](Day35.md)
+
