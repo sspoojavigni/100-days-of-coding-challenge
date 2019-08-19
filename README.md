@@ -89,3 +89,6 @@ In the ninth line, print the length of the given string.](Day33.md)
 
 38)[Given a list of numbers, print all its even elements. Use a for-loop that iterates over the list itself and not over its indices. That is, don't use range()](Day38.md)
 
+39)[Given a list of numbers, find and print all its elements that are greater than their left neighbor.](Day39.md)
+
+
