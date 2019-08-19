@@ -95,6 +95,8 @@ In the ninth line, print the length of the given string.](Day33.md)
 
 41)[Given a list of numbers, determine and print the number of elements that are greater than both of their neighbors.The first and the last items of the list shouldn't be considered because they don't have two neighbors.](Day41.md)
 
+42)[Given a list of numbers with all elements sorted in ascending order, determine and print the number of distinct elements in it.](Day42.md)
+
 
 
 
