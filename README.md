@@ -101,3 +101,5 @@ In the ninth line, print the length of the given string.](Day33.md)
 
 44)[Given a list of distinct numbers, swap the minimum and the maximum and print the resulting list.](Day44.md)
 
+45)[It is possible to place 8 queens on an 8×8 chessboard so that no two queens threaten each other. Thus, it requires that no two queens share the same row, column, or diagonal.  ](Day45.md)
+
