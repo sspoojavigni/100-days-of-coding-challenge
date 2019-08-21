@@ -113,3 +113,7 @@ In the ninth line, print the length of the given string.](Day33.md)
 49)[Given the text: the first line contains the number of lines, then given the lines of words. Print the word in the text that occurs most often. If there are many such words, print the one that is less in the alphabetical order.](Day49.md)
 
 
+50)[Given a list of countries and cities of each country, then given the names of the cities. For each city print the country in which it is located.](Day50.md)
+
+
+
