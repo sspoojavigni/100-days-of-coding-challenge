@@ -105,4 +105,5 @@ In the ninth line, print the length of the given string.](Day33.md)
 
 46)[Given a list of numbers, find and print the elements that appear in it only once. Such elements should be printed in the order in which they occur in the original list.](Day46.md)
 
+47)[The text is given in a single line. For each word of the text count the number of its occurrences before it.](Day47.md)
 
