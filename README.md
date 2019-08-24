@@ -115,5 +115,5 @@ In the ninth line, print the length of the given string.](Day33.md)
 
 50)[Given a list of countries and cities of each country, then given the names of the cities. For each city print the country in which it is located.](Day50.md)
 
-
+51)[The first line contains the number of records. After that, each entry contains the name of the candidate and the number of votes they got in some state. Count the results of the elections: sum the number of votes for each candidate. Print candidates in the alphabetical order.](Day51.md)
 
