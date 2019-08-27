@@ -122,3 +122,7 @@ In the ninth line, print the length of the given string.](Day33.md)
 53)[Write a function second_is_second_largest that will return True if the 2nd largest value is in the 2nd position. If not, return False.](Day53.md)
 
 54)[One of the core principles of any programming language is, "Don't Repeat Yourself". If you have an action that should occur many times, you can define that action once and then call that code whenever you need to carry out that action.](Day54.md)
+
+55)[Write a function second_biggest_value which accepts three integers, and does the following:
+returns the second biggest value among the three
+returns “NA” if there are two or more equal values](Day55.md)
