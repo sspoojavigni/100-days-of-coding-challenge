@@ -120,3 +120,5 @@ In the ninth line, print the length of the given string.](Day33.md)
 52)[Given a number n, followed by n lines of text, print all words encountered in the text, one per line, with their number of occurrences in the text. The words should be sorted in descending order according to their number of occurrences, and all words within the same frequency should be printed in lexicographical order.](Day52.md)
 
 53)[Write a function second_is_second_largest that will return True if the 2nd largest value is in the 2nd position. If not, return False.](Day53.md)
+
+54)[One of the core principles of any programming language is, "Don't Repeat Yourself". If you have an action that should occur many times, you can define that action once and then call that code whenever you need to carry out that action.](Day54.md)
